@@ -11,7 +11,7 @@
 ### 🚀 Sobre mí
 
 - 💻 **Desarrollo Web Full-Stack:** Construyendo plataformas con **Next.js, React, TypeScript y Supabase**.
-- 🛠️ **Proyectos actuales:** Desarrollando **BARCAP** (plataforma SaaS de gestión y agendamiento para barberías) y colaborando en **ProjectGYM** (app fitness con experiencias web 3D).
+- 🛠️ **Proyectos actuales:** Colaborando en **BARCAP** (plataforma SaaS de gestión y agendamiento para barberías) y colaborando en **ProjectGYM** (app fitness con experiencias web 3D).
 - 🎓 **Formación:** Tecnología en Desarrollo de Software (Universidad del Valle) & Técnico en Programación de Software (SENA).
 - 🌱 **Explorando:** Arquitecturas backend modernas, experiencias 3D en la web con React Three Fiber y redes.
 
@@ -31,7 +31,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **BARCAP** | Plataforma SaaS B2B para barberías con reservas, notificaciones automatizadas por WhatsApp y tarjetas de fidelización 3D. | `Next.js` `Supabase` `TypeScript` `R3F` |
+| **BARCAP** | Plataforma SaaS B2B para barberías. | `Next.js` `Supabase` `TypeScript` `R3F` |
 | **ProjectGYM (SmartSet)** | Aplicación web enfocada en entrenamiento físico interactivo con seguimiento y modelos 3D. | `Next.js` `React` `Three.js` `MediaPipe` |
 
 ---
@@ -40,13 +40,7 @@
 
 <p align="left">
   <!-- Reemplaza los enlaces "#" con tus URLs reales -->
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:josecampinoc@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tu-portafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
 </p>
